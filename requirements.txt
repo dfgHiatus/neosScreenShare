@@ -1,0 +1,9 @@
+cv2
+sys
+PIL
+numpy
+os
+asyncio
+websockets
+subprocess
+re
